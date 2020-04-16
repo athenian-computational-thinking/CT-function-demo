@@ -1,4 +1,4 @@
-# Intro to fucntions
+# Intro to fucnctions
 
 * Defining a function
 * Parameters
